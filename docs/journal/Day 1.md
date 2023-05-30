@@ -1,3 +1,4 @@
+# Day 1
 ## switzerland.bin:
 - 1291 gruendung schweiz
 - 41285 flaeche Schweiz
