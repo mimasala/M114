@@ -3,8 +3,8 @@
 ### huffman code
 
 https://huffman.ooz.ie/
-https://asecuritysite.com/calculators/huff
 
+https://en.wikipedia.org/wiki/Huffman_coding
 
 ## Reflexion
 
