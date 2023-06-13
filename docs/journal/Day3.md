@@ -2,11 +2,11 @@
 ## Aufgaben
 
 ## RGB
-#FF0000 : rot
-#00FF00 : grün
-#0000FF : blau
-#FFFF00 : gelb
-#00FFFF : cyan
+`#&#8203;`FF0000 : rot
+`#&#8203;`00FF00 : grün
+`#&#8203;`0000FF : blau
+`#&#8203;`FFFF00 : gelb
+`#&#8203;`00FFFF : cyan
 
 ## CMYK
 C:0%, M:100%, Y:100%, K:0% : rot
