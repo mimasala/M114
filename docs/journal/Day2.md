@@ -3,8 +3,10 @@
 Das erste bit wird verwendet um das vorzeichen zu speichern. 0 = positiv, 1 = negativ. Die restlichen bits werden verwendet um die zahl zu speichern. Die zahl wird dann mit dem ersten bit multipliziert.
 
 ### 2er Kompliment
-Die 2er-Komplementdarstellung einer Zahl hat folgende Struktur: Das erste Bit gibt den Vorzeichenwert an. Wenn das erste Bit 1 ist, handelt es sich um eine negative Zahl. \
-Beispiel: 1000 entspricht -8. Die nachfolgenden Bits werden zur Darstellung des Zahlenwerts verwendet. \
+Die 2er-Komplementdarstellung einer Zahl hat folgende Struktur: Das erste Bit gibt den Vorzeichenwert an. Wenn das erste Bit 1 ist, handelt es sich um eine negative Zahl. 
+
+Beispiel: 1000 entspricht -8. Die nachfolgenden Bits werden zur Darstellung des Zahlenwerts verwendet. 
+
 Beispiel: 1001 entspricht -8 + 1 = -7.
 
 ### ASCII (American Standart Code for Information Interchanges)
